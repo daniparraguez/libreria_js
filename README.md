@@ -1,4 +1,3 @@
-[![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
 
 # User/Password Validation Library
 

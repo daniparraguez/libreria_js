@@ -6,6 +6,8 @@
 * Los campos de formulario son una tarea de programación necesaria, aunque muchas veces es un proceso molesto. 
 * En javascript facilitan la programación y mejora la interfaz del usuario. Esto te ahorrará una tarea importante.
 
+![alt text](https://github.com/daniparraguez/Portfolio/blob/master/assets/img/UserPass.png)
+
 ## Instalación
 > Instalado node.js , procederemos a descargar los archivos de la librería mediante:
 ```sh

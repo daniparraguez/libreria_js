@@ -1,12 +1,13 @@
 [![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
 
-# Librería User/Password_Validation 
+# User/Password Validation Library
+
+![alt text](https://github.com/daniparraguez/Portfolio/blob/master/assets/img/UserPass.png)
 
 * User/Password_Validation es una librería para la validación de los campos de formulario por parte del cliente, verifica que las entradas sean del tipo correcto y que esten completas con datos, antes que el formulario sea enviado.
 * Los campos de formulario son una tarea de programación necesaria, aunque muchas veces es un proceso molesto. 
 * En javascript facilitan la programación y mejora la interfaz del usuario. Esto te ahorrará una tarea importante.
 
-![alt text](https://github.com/daniparraguez/Portfolio/blob/master/assets/img/UserPass.png)
 
 ## Instalación
 > Instalado node.js , procederemos a descargar los archivos de la librería mediante:

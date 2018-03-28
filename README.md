@@ -1,7 +1,7 @@
 
 # User/Password Validation Library
 
-![alt text](https://github.com/daniparraguez/Portfolio/blob/master/assets/img/UserPass.png)
+![userpass](https://user-images.githubusercontent.com/32283330/38035277-6f712da6-327a-11e8-9156-78db8746ee7a.png)
 
 * User/Password_Validation es una librería para la validación de los campos de formulario por parte del cliente, verifica que las entradas sean del tipo correcto y que esten completas con datos, antes que el formulario sea enviado.
 * Los campos de formulario son una tarea de programación necesaria, aunque muchas veces es un proceso molesto. 
